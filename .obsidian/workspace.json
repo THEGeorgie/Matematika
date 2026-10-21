@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "850e0449489b3ee0",
     "type": "split",
     "children": [
@@ -47,11 +48,32 @@
           }
         ],
         "currentTab": 2
+=======
+    "id": "5286b3359513510e",
+    "type": "split",
+    "children": [
+      {
+        "id": "458bcf94fa38dc29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85976c71ddf321e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "6245cbb69aa5c116",
     "type": "split",
     "children": [
@@ -61,6 +83,17 @@
         "children": [
           {
             "id": "d7b5c29e4ed192ad",
+=======
+    "id": "869f99fbe3a1d05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a371cd8d012770a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac0355e5ab7770b",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +108,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "fa98d9af8911ebf8",
+=======
+            "id": "9820212ec22caf0a",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +129,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "133467660329b67f",
+=======
+            "id": "d2835ac653d1fe3d",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,6 +149,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
   },
@@ -121,6 +163,20 @@
         "children": [
           {
             "id": "0091ee081dff5cc0",
+=======
+    "width": 300
+  },
+  "right": {
+    "id": "0741ee1fc695c1e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "61059e4057d85322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf808b18729199ea",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -138,7 +194,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "bc7e3025b2d611f6",
+=======
+            "id": "86ec7995368360e9",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -151,7 +211,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "f5596a3f2b9370e2",
+=======
+            "id": "f432febe84a9fc32",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +230,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "230895dfa63af31b",
+=======
+            "id": "6bffabc3d7103edb",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,7 +248,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "2d3b63f6f87e42eb",
+=======
+            "id": "8c54adc12fc3bc81",
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -192,6 +264,7 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+<<<<<<< HEAD
           },
           {
             "id": "6bd5d08a49a87474",
@@ -209,6 +282,15 @@
     ],
     "direction": "horizontal",
     "width": 300
+=======
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +300,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "xournalpp:Create new Xournal++ note": false
@@ -262,4 +345,11 @@
     "Matematika/Ink/Writing/2026.10.8 - 12.55pm.svg",
     "Excalidraw/Drawing 2026-10-14 20.05.47.excalidraw.md"
   ]
+=======
+      "bases:Create new base": false
+    }
+  },
+  "active": "85976c71ddf321e2",
+  "lastOpenFiles": []
+>>>>>>> 6328046c67afc7e9735670af5b3e9dbe0674887c
 }

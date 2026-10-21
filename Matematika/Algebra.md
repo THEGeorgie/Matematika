@@ -8,3 +8,5 @@
 ## -3
 
 ![[Drawing 2026-10-08 14.07.12.excalidraw]]
+12.10.2026 vaje
+![[Drawing 2026-10-12 10.36.57.excalidraw]]
