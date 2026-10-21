@@ -1,4 +1,4 @@
-# <span style="color: var(--color-red)"[[]]>Dodatna naloga -1</span>
+[[Matematika/Analiza delovnist-list 3.pdf|Analiza delovnist-list 3]]# <span style="color: var(--color-red)"[[]]>Dodatna naloga -1</span>
 
 ## **-1**
  ![InkWriting](<Ink/Writing/2026.10.8 - 12.26pm.svg>) [Edit Writing](https://youtu.be/2arL1jh8ihA?type=inkWriting&aspectRatio=5.333)
